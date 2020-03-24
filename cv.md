@@ -8,15 +8,15 @@
 
 ## Summary:
 
-    My objective is to be one of the best Developers, first in *JavaScript* as a Full Stack Developer. Later my goal is develop my own videogame, maybe in JS or another language. 
+My objective is to be one of the best Developers, first in *JavaScript* as a Full Stack Developer. Later my goal is develop my own videogame, maybe in JS or another language. 
     
-    I wish to travel many countries, in special, Japan, by using my programming skills and learning new languages.
+I wish to travel many countries, in special, Japan, by using my programming skills and learning new languages.
     
-    I am __very perfectionist__ and I love solving problems with simple code, that's why I am constantly learning about programming, improving my knowledge every day with new coding techniques.
+I am __very perfectionist__ and I love solving problems with simple code, that's why I am constantly learning about programming, improving my knowledge every day with new coding techniques.
 
 ## Skills: 
 
-    I have knowledge with Html, CSS and JavaScript, a litte bit of the ReactJS Framework and i have experience with Git and GitHub.
+I have knowledge with Html, CSS and JavaScript, a litte bit of the ReactJS Framework and i have experience with Git and GitHub.
 
 ## Code examples:
 
@@ -77,4 +77,4 @@ function findShort(s){
 
 ### English
 
-    I have learned English in Trinidad & Tobago. Low-Intermediate Speaking. High-Intermediate Writting/Reading.
+I have learned English in Trinidad & Tobago. Low-Intermediate Speaking. High-Intermediate Writting/Reading.
